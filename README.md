@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Linguagens de Programação  
-[![My Skills](https://skillicons.dev/icons?i=java,python,c,html5,css3,js&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,html,css,javascript,sql&theme=dark)](https://skillicons.dev)  
 
 
 ---
