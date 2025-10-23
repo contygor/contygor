@@ -20,3 +20,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YgorAraujo&layout=compact&theme=dracula)
+
