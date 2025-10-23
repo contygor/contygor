@@ -1,29 +1,29 @@
 # 👋 Prazer, me chamo Ygor Araujo  
 
 🎓 **Sistemas de Informação - Universidade de São Paulo (USP)**  
-💡 Apaixonado por tecnologia, arquitetura de software e desenvolvimento Back-End.  
 
 ---
 
 ## 🚀 Linguagens de Programação  
-[![My Skills](https://skillicons.dev/icons?i=java,python,c,html,css,javascript,sql&theme=dark)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,html5,css3,js&theme=dark)](https://skillicons.dev)
+
 
 ---
 
 ## 🛠️ Ferramentas e Tecnologias  
-[![My Skills](https://skillicons.dev/icons?i=spring,qt,git,github,postman,mysql,trello,vscode,eclipse&theme=dark)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=spring,qt,git,github,postman,mysql,vscode,eclipse&theme=dark)](https://skillicons.dev)  
 
 ---
 
 ## 📊 Estatísticas  
 
 <div>
-  <div style="display:inline-block; margin-right:10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=contygor&show_icons=true&theme=radical" alt="GitHub stats" width="300"/>
-  </div>
-  <div style="display:inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=contygor&layout=compact&theme=radical&langs_count=8" alt="Top Langs" width="300"/>
-  </div>
+  <span style="display:inline-block; margin-right:10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=contygor&show_icons=true&theme=radical" width="300"/>
+  </span>
+  <span style="display:inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=contygor&layout=compact&theme=radical&langs_count=8" width="300"/>
+  </span>
 </div>
 
 ---
