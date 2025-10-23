@@ -1,25 +1,25 @@
-# 👋 Ygor Araujo
+<h1 align="center">👋 Prazer, me chamo Ygor Araujo</h1>
 
-🎓 **Sistemas de Informação - Universidade de São Paulo (USP)**
+<p align="center">
+  🎓 <strong>Sistemas de Informação - Universidade de São Paulo (USP)</strong><br>
+</p>
+<br>
 
----
+## 🚀 Linguagens de Programação
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,html,css,javascript,sql)](https://skillicons.dev)
+<br><br>
 
-### 💻 Tecnologias e Ferramentas
+## 🛠️ Ferramentas e Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=spring,qt,git,github,postman,mysql,trello,vscode,eclipse)](https://skillicons.dev)
+<br><br>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=flat&logo=javascript&logoColor=black)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
+## 📊 Estatísticas do GitHub
+![YgorAraujo GitHub stats](https://github-readme-stats.vercel.app/api?username=YgorAraujo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YgorAraujo&layout=compact&theme=radical)
+<br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YgorAraujo&layout=compact&theme=dracula)
+## 📫 Contato
+[![Linkedin: YgorAraujo](https://img.shields.io/badge/-YgorAraujo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/contygor/)](https://www.linkedin.com/in/contygor/)
+<br><br>
 
+Sinta-se à vontade para entrar em contato e trocar ideias sobre tecnologia, projetos e desenvolvimento! 🚀
