@@ -16,14 +16,17 @@
 ---
 
 ## 📊 Estatísticas  
-![Ygor GitHub stats](https://github-readme-stats.vercel.app/api?username=contygor&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=contygor&layout=compact&theme=radical&langs_count=8)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=contygor&theme=radical)  
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=contygor&show_icons=true&theme=radical" alt="GitHub stats" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=contygor&layout=compact&theme=radical&langs_count=8" alt="Top Langs" width="350"/>
+  <img src="https://streak-stats.demolab.com/?user=contygor&theme=radical" alt="GitHub Streak" width="350"/>
+</div>
+
 
 ---
 
 ## 📫 Contato  
-[![Linkedin: YgorAraujo](https://img.shields.io/badge/-YgorAraujo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/contygor/)](https://www.linkedin.com/in/contygor/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/contygor/)
 
 ---
 
