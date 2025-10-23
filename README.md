@@ -11,7 +11,7 @@
 ---
 
 ## 🛠️ Ferramentas e Tecnologias  
-[![My Skills](https://skillicons.dev/icons?i=spring,qt,git,github,postman,mysql,vscode,eclipse&theme=dark)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=spring,qt,git,github,postman,mysql&theme=dark)](https://skillicons.dev)  
 
 ---
 
